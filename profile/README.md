@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="l-tcsh.svg">
   <source media="(prefers-color-scheme: light)" srcset="d-tcsh.svg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="l-tcsh.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="d-tcsh.svg">
 </picture>
 
 

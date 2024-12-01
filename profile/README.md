@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="dtcsh.svg" width="480">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="dtcsh.svg">
 </picture>
-
+<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="dtcsh.svg">
 
 
 # The Computer Science Hall 

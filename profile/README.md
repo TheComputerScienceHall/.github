@@ -3,9 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="dtcsh.svg" width="480">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="dtcsh.svg">
 </picture>
-<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="l-tcsh.svg" width="480" align="left">
 
-
-# The Computer Science Hall 
 # The Computer Science Hall 
 ### A Non-Profit Organization and International Community of People Passionate About Technology

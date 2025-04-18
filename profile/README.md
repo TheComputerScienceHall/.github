@@ -1,4 +1,4 @@
-<h1 align="center"><picture><img src="logo.svg" align="center" width="250px"></picture></h1>
+<h1 align="center"><picture><img src="logo.svg" align="center"></picture></h1>
 <h3 align="center">A Non-Profit Organization and International Community of People Passionate About Technology</h3>
 <br>
 <br>
